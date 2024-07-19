@@ -1,0 +1,483 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,APC,🤹 Approche Par Compétence,"<div class=""alert alert-warning"" role=""alert"">
+<h4 class=""alert-heading"">⚠️ Ce r&eacute;f&eacute;rentiel de comp&eacute;tences est un mod&egrave;le d&eacute;monstratif</h4>
+<p>Ce r&eacute;f&eacute;rentiel d&eacute;montre comment mettre en &oelig;uvre et op&eacute;rationnaliser un r&eacute;f&eacute;rentiel de comp&eacute;tences avec l'<abbr class=""initialism"" title=""Approche Par Comp&eacute;tence"">APC</abbr>&nbsp;dans les r&eacute;f&eacute;rentiels de comp&eacute;tences de Moodle.<br>Il suit une synth&egrave;se simple en 7 stades de d&eacute;veloppement des r&eacute;f&eacute;rentiels de comp&eacute;tences incluant : la d&eacute;finition des&nbsp;<strong>comp&eacute;tences</strong>, des <strong>composantes essentielles</strong>, des <strong>familles de situations</strong>, des <strong>niveaux de d&eacute;veloppement</strong>, des <strong>apprentissages critiques</strong>, et d'autres &eacute;l&eacute;ments du programme de formation comme les <strong>situations d'apprentissage et d'&eacute;valuation</strong>&nbsp;(SA&Eacute;) ainsi que les <strong>ressources&nbsp;</strong>n&eacute;cessaires au d&eacute;veloppement des comp&eacute;tences. Ces stades ne sont pas lin&eacute;aires et peuvent &ecirc;tre abord&eacute;s un sens ou un autre, des <strong>racines </strong>aux <strong>branches </strong>et vice versa.</p>
+<hr>
+<p class=""mb-0"">Il contient des nomenclatures, auto-explications et auto-instructions pour identifier et d&eacute;velopper correctement chaque &eacute;l&eacute;ment, qui ne devraient bien s&ucirc;r pas &ecirc;tre pr&eacute;sent&eacute;s tels quels dans le r&eacute;f&eacute;rentiel complet.</p>
+</div>
+<hr>
+<p><span style=""background-color: #fbeeb8;"">▶️ Avant de se familiariser avec l'approche, il est utile de revenir sur la d&eacute;finition de la&nbsp;<strong>comp&eacute;tence</strong> de Tardif (2006) :</span></p>
+<blockquote>
+<p dir=""ltr"" style=""text-align: center;"">&laquo;&nbsp;<span style=""font-size: 18pt;""><em>un savoir-agir complexe s&rsquo;appuyant sur la mobilisation et la combinaison efficaces de ressources internes et externes &agrave; l&rsquo;int&eacute;rieur d&rsquo;une famile de situations</em></span> &raquo;<br>&mdash; Tardif (2006)</p>
+<hr></blockquote>
+<p><span style=""background-color: #fbeeb8;"">▶️ Les &eacute;tapes de d&eacute;veloppement de cette approche sont les suivantes :</span></p>
+<p><img title=""Approche pour d&eacute;velopper un cadre de comp&eacute;tences (APC)"" src=""https://eldoomcbe.github.io/_mcf_APC/apc-référentiel-terminologie.jpg"" alt=""Approche pour d&eacute;velopper un cadre de comp&eacute;tences"" width=""100%""></p>
+<hr>
+<p><span style=""background-color: #fbeeb8;"">▶️ &Agrave; ce&nbsp;<strong>stade</strong>, nous pouvons d&eacute;j&agrave; voir qu'une <strong>hi&eacute;rarchie</strong> ou une sorte de <strong>structure en arbre</strong> &eacute;merge :</span></p>
+<details class=""mce-accordion"">
+<summary><strong><span style=""font-size: 18pt;"">1️⃣✊ Comp&eacute;tence</span></strong></summary>
+<p>D&eacute;finir les <strong>comp&eacute;tences</strong>, le &laquo;&nbsp;<em>savoir-agir</em> &raquo; complexe que les &eacute;tudiants doivent d&eacute;velopper tout au long du programme de formation.</p>
+</details>
+<details class=""mce-accordion"">
+<summary style=""padding-left: 40px;""><strong><span style=""font-size: 18pt;"">2️⃣🔩 </span></strong><em><span style=""font-size: 18pt;"">Composante Essentielle</span></em></summary>
+<p>D&eacute;finir les <strong>composantes essentielles</strong> pour l'action, qui rendent compte de la complexit&eacute; de la comp&eacute;tence, informent sur sa qualit&eacute; et facilitent son &eacute;valuation.</p>
+</details>
+<details class=""mce-accordion"">
+<summary style=""padding-left: 40px;""><strong><span style=""font-size: 18pt;"">3️⃣💼 </span></strong><em><span style=""font-size: 18pt;"">Situation Professionnelle</span></em></summary>
+<p>D&eacute;finir les <strong>familles de situations</strong> (souvent des types de contextes professionnels) qui rendent compte de l'&eacute;tendue de la <strong>comp&eacute;tence</strong>.</p>
+</details>
+<details class=""mce-accordion"">
+<summary><strong><span style=""font-size: 18pt;"">4️⃣⭐ Niveaux&nbsp;</span></strong></summary>
+<p>D&eacute;finir les <strong>niveaux de d&eacute;veloppement des comp&eacute;tences </strong>vis&eacute;s &agrave; la fin de certaines p&eacute;riodes d'apprentissage (par exemple, un maximum de trois niveaux pour un baccalaur&eacute;at).</p>
+</details>
+<details class=""mce-accordion"">
+<summary style=""padding-left: 40px;""><strong><span style=""font-size: 18pt;"">5️⃣🔨 Apprentissage Critique</span></strong></summary>
+<p>D&eacute;finir les <strong>apprentissages critiques</strong> &agrave; ma&icirc;triser pour atteindre un <strong>niveau de d&eacute;veloppement des comp&eacute;tences</strong> donn&eacute;.</p>
+</details>
+<details class=""mce-accordion"">
+<summary><strong><span style=""font-size: 14pt;"">6️⃣🦿 </span></strong><em><span style=""font-size: 14pt;"">Situation d'Apprentissage et d'&Eacute;valuation (SA&Eacute;)</span></em></summary>
+<p>D&eacute;finir des <strong>Situations d'Apprentissage et d'&Eacute;valuation</strong> (<strong>SA&Eacute;</strong>) dans lesquelles immerger les &eacute;tudiants pour leur permettre de d&eacute;velopper et d'&eacute;valuer les <strong>comp&eacute;tences</strong> cibl&eacute;es.</p>
+</details>
+<details class=""mce-accordion"">
+<summary><strong><span style=""font-size: 14pt;"">7️⃣🐥 </span></strong><span style=""font-size: 14pt;""><em>Ressource</em></span></summary>
+<p>D&eacute;finir certaines des <strong>ressources</strong> : combinaison de <strong>connaissances</strong>, de <strong>comp&eacute;tences</strong>, d'<strong>attitudes professionnelles</strong>, de <strong>normes</strong>, de <strong>r&egrave;gles</strong>, de <strong>sch&eacute;mas</strong>, etc.</p>
+</details>
+<p>&nbsp;</p>
+<hr>
+<p><span style=""background-color: #fbeeb8;"">▶️ Et c'est un bon&nbsp;<strong>point</strong>, car Moodle est exactement le type de syst&egrave;me qui peut g&eacute;rer facilement ce type d'<strong>op&eacute;rationnalisation en structure arborescente</strong> :</span></p>
+<p><img title=""Formalis&eacute; dans le cadre de comp&eacute;tences"" src=""https://eldoomcbe.github.io/_mcf_SBA/sba-framework-operationalization.jpg"" alt=""Formalis&eacute; dans le cadre de comp&eacute;tences"" width=""100%""></p>
+<hr>
+<p dir=""ltr""><span style=""background-color: #fbeeb8;"">▶️ Voici comment vous pouvez lire ceci :</span></p>
+<div class=""alert alert-info"">
+<h1>Construire le r&eacute;f&eacute;rentiel</h1>
+<p>&nbsp;</p>
+<ul>
+<li dir=""ltr"" aria-level=""1"">
+<h4 dir=""ltr"" role=""presentation""><strong>1️⃣ D&eacute;finir <kbd>✊&nbsp;Comp&eacute;tences</kbd></strong></h4>
+<ul>
+<li dir=""ltr"" aria-level=""2"">
+<p dir=""ltr"" role=""presentation"">Utiliser des <strong>verbes d'action</strong>, g&eacute;n&eacute;ralement entre 4 et 6 pour une formation de 1 &agrave; 3 ans<br><br></p>
+</li>
+</ul>
+</li>
+<li dir=""ltr"" aria-level=""1"">
+<h4 dir=""ltr"" role=""presentation""><strong>2️⃣ D&eacute;finir</strong> <kbd>🔩&nbsp;Composantes Essentielles</kbd> pour chaque <kbd>✊&nbsp;Comp&eacute;tence</kbd></h4>
+<ul>
+<li dir=""ltr"" aria-level=""2"">
+<p dir=""ltr"" role=""presentation"">Utiliser des <strong>g&eacute;rondifs</strong> (par exemple, ""en maintenant,"" ""en assurant""), g&eacute;n&eacute;ralement entre 3 et 6 par comp&eacute;tence</p>
+</li>
+</ul>
+</li>
+<li dir=""ltr"" aria-level=""1"">
+<h4 dir=""ltr"" role=""presentation""><strong>3️⃣ D&eacute;finir</strong> <kbd>💼&nbsp;Familles de Situations</kbd> pour chaque <kbd>✊&nbsp;Comp&eacute;tence</kbd></h4>
+<ul>
+<li dir=""ltr"" aria-level=""2"">
+<p dir=""ltr"" role=""presentation""><strong>Application contextuelle</strong> : Les comp&eacute;tences sont d&eacute;velopp&eacute;es dans des contextes r&eacute;els, g&eacute;n&eacute;ralement entre 2 et 4 par comp&eacute;tence</p>
+</li>
+</ul>
+</li>
+</ul>
+<p dir=""ltr""><strong>&nbsp;</strong></p>
+<ul>
+<li dir=""ltr"" aria-level=""1"">
+<h4 dir=""ltr"" role=""presentation""><strong>4️⃣ D&eacute;finir</strong> <strong>D&eacute;veloppement <kbd>⭐&nbsp;Niveaux</kbd></strong> pour chaque <kbd>✊&nbsp;Comp&eacute;tence</kbd></h4>
+</li>
+<ul>
+<li dir=""ltr"" aria-level=""2"">
+<p dir=""ltr"" role=""presentation""><strong>Indicateurs de progression</strong> : D&eacute;finir des r&ocirc;les ou des fonctions qui augmentent en complexit&eacute; au fil du temps, g&eacute;n&eacute;ralement entre 3 et 4 par comp&eacute;tence</p>
+</li>
+</ul>
+</ul>
+<p dir=""ltr""><strong>&nbsp;</strong></p>
+<ul>
+<li dir=""ltr"" aria-level=""1"">
+<h4 dir=""ltr"" role=""presentation""><strong>5️⃣ Identifier</strong> <kbd>🔨&nbsp;Apprentissages Critiques</kbd> pour chaque <kbd>✊&nbsp;Comp&eacute;tence</kbd> et <kbd>⭐&nbsp;Niveaux</kbd></h4>
+</li>
+<ul>
+<li dir=""ltr"" aria-level=""2"">
+<p dir=""ltr"" role=""presentation"">Apprentissage transformationnel, changements attendus : Moments cl&eacute;s qui changent la compr&eacute;hension et l'approche de l'&eacute;tudiant.</p>
+<hr></li>
+</ul>
+</ul>
+<h5 dir=""ltr"">&Eacute;l&eacute;ments de soutien (transversal &agrave; plusieurs &eacute;l&eacute;ments&nbsp;cibl&eacute;s d'une <kbd>✊ Comp&eacute;tence</kbd>)</h5>
+<ul>
+<li dir=""ltr"" aria-level=""1"">
+<p dir=""ltr"" role=""presentation""><strong>6️⃣</strong> <kbd>🦿&nbsp;Situation d'Apprentissage et d'&Eacute;valuation (SA&Eacute;)</kbd> : T&acirc;ches authentiques con&ccedil;ues pour d&eacute;velopper et &eacute;valuer les <kbd>✊&nbsp;Comp&eacute;tences</kbd>.</p>
+</li>
+<li dir=""ltr"" aria-level=""1"">
+<p dir=""ltr"" role=""presentation""><strong>7️⃣</strong> <kbd>🐥&nbsp;Ressources</kbd> : Connaissances, comp&eacute;tences et attitudes essentielles n&eacute;cessaires au d&eacute;veloppement des <kbd>✊&nbsp;Comp&eacute;tences</kbd>.</p>
+</li>
+</ul>
+</div>
+<hr>
+<p><span style=""background-color: #fbeeb8;"">▶️ Une autre fa&ccedil;on de voir cela sous forme plus tabulaire :</span></p>
+<table dir=""ltr"" style=""border-collapse: collapse; border-spacing: 0px; background-color: #000000; width: 100%; height: 1185.05px; border: 3px solid #ecf0f1;"" border=""1"" cellspacing=""0"" cellpadding=""0"" data-sheets-root=""1""><colgroup><col style=""width: 9.18655%;"" width=""42""><col style=""width: 6.40836%;"" width=""100""><col style=""width: 9.63106%;"" width=""100""><col style=""width: 11.298%;"" width=""100""><col style=""width: 3.11157%;"" width=""42""><col style=""width: 9.29767%;"" width=""100""><col style=""width: 3.482%;"" width=""42""><col style=""width: 9.11246%;"" width=""100""><col style=""width: 5.37117%;"" width=""100""><col style=""width: 7.89006%;"" width=""100""><col style=""width: 7.89006%;"" width=""100""><col style=""width: 7.89006%;"" width=""100""><col style=""width: 7.89006%;"" width=""100""><col style=""width: 1.4817%;"" width=""26""></colgroup>
+<tbody>
+<tr style=""height: 25.6px;"">
+<td style=""border-color: #ecf0f1; background-color: #e03e2d; border-width: 3px;"" colspan=""14"">&nbsp;</td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #e03e2d; border-width: 3px;"" rowspan=""3"">
+<h1><span style=""color: #ecf0f1;"">C1</span></h1>
+</td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"" colspan=""12"" data-sheets-value=""{"">
+<h2 style=""text-align: center;""><span style=""color: #ecf0f1;"">✊ Comp&eacute;tence</span></h2>
+</td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"">&nbsp;</td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""12""><span style=""color: #f8cac6;""><em>... un savoir-agir complexe ...</em></span><em><span style=""color: #ecf0f1;""><br></span></em></td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;""><em><span style=""color: #ecf0f1;"">&nbsp;</span></em></td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""12"" data-sheets-value=""{"">
+<h1><span style=""color: #ecf0f1;"">...</span></h1>
+</td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"">&nbsp;</td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; background-color: #e67e23; border-width: 3px;"" colspan=""14"">&nbsp;</td>
+</tr>
+<tr style=""height: 154.15px;"">
+<td style=""border-color: #ecf0f1; border-width: 3px;"" colspan=""3"">
+<div style=""text-align: center;""><span style=""color: #fbeeb8;""><em>... qui comprend des qualit&eacute;s, des crit&egrave;res d'exigences observables ...</em></span></div>
+</td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"" data-sheets-value=""{"">
+<div style=""text-align: center;""><span style=""color: #ecf0f1;"">🔩 Composante Essentielle</span></div>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #e67e23; border-width: 3px;"" data-sheets-value=""{"">
+<h2><strong><span style=""color: #ecf0f1;"">CE1</span></strong></h2>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""8"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">en...</span></td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"">&nbsp;</td>
+</tr>
+<tr style=""height: 25.6px;"">
+<td style=""border-color: #ecf0f1; border-width: 3px;"" colspan=""14"">&nbsp;</td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #843fa1; border-width: 3px;"" colspan=""14""><span style=""color: #ecf0f1;"">🚶 son d&eacute;veloppement</span></td>
+</tr>
+<tr style=""height: 89.025px;"">
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #2dc26b; border-width: 3px;"" colspan=""4""><span style=""color: #ecf0f1;"">... en adoptant les responsabilit&eacute;s de + en + complexes ...</span></td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #ff2eed; border-width: 3px;"" colspan=""9""><em><span style=""color: #ecf0f1;"">... qui n&eacute;cessitent un apprentissage transformationnel ...</span></em></td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"" rowspan=""5"">&nbsp;</td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" data-sheets-value=""{""><strong><span style=""color: #ecf0f1;"">⭐</span></strong></td>
+<td style=""border-color: #ecf0f1; background-color: #2dc26b; border-width: 3px;"" data-sheets-value=""{"">
+<h3 style=""text-align: center;""><strong><span style=""color: #ecf0f1;"">N1</span></strong></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""2"" data-sheets-value=""{""><em><span style=""color: #ecf0f1;"">Novice</span></em></td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""2"" data-sheets-value=""{"">
+<div><span style=""color: #ecf0f1;"">🔨 Apprentissage Critique</span></div>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #ff2eed; border-width: 3px;"" data-sheets-value=""{"">
+<h3><strong><span style=""color: #ecf0f1;"">AC1</span></strong></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""6"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">...</span></td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">⭐⭐</span></td>
+<td style=""border-color: #ecf0f1; background-color: #2dc26b; border-width: 3px;"" data-sheets-value=""{"">
+<h3 style=""text-align: center;""><span style=""color: #ecf0f1;""><strong>N2</strong></span></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""2"" data-sheets-value=""{""><em><span style=""color: #ecf0f1;"">Interm&eacute;diaire</span></em></td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""2"" data-sheets-value=""{"">
+<div><span style=""color: #ecf0f1;"">🔨 Apprentissage Critique</span></div>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #ff2eed; border-width: 3px;"" data-sheets-value=""{"">
+<h3><strong><span style=""color: #ecf0f1;"">AC1</span></strong></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""6"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">...</span></td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">⭐⭐⭐</span></td>
+<td style=""border-color: #ecf0f1; background-color: #2dc26b; border-width: 3px;"" data-sheets-value=""{"">
+<h3 style=""text-align: center;""><span style=""color: #ecf0f1;""><strong>N3</strong></span></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""2"" data-sheets-value=""{""><em><span style=""color: #ecf0f1;"">Comp&eacute;tent</span></em></td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""2"" data-sheets-value=""{"">
+<div><span style=""color: #ecf0f1;"">🔨 Apprentissage Critique</span></div>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #ff2eed; border-width: 3px;"" data-sheets-value=""{"">
+<h3><strong><span style=""color: #ecf0f1;"">AC1</span></strong></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""6"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">...</span></td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">⭐⭐⭐⭐</span></td>
+<td style=""border-color: #ecf0f1; background-color: #2dc26b; border-width: 3px;"" data-sheets-value=""{"">
+<h3 style=""text-align: center;""><span style=""color: #ecf0f1;""><strong>N4</strong></span></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""2"" data-sheets-value=""{""><em><span style=""color: #ecf0f1;"">Avanc&eacute;</span></em></td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""2"" data-sheets-value=""{"">
+<div><span style=""color: #ecf0f1;"">🔨 Apprentissage Critique</span></div>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #ff2eed; border-width: 3px;"" data-sheets-value=""{"">
+<h3><strong><span style=""color: #ecf0f1;"">AC1</span></strong></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""6"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">...</span></td>
+</tr>
+<tr style=""height: 25.6px;"">
+<td style=""border-color: #ecf0f1; background-color: #46bdc6; border-width: 3px;"" colspan=""14"">&nbsp;</td>
+</tr>
+<tr style=""height: 154.15px;"">
+<td style=""border-color: #ecf0f1; border-width: 3px;"">&nbsp;</td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"" colspan=""2"" data-sheets-value=""{"">
+<div style=""text-align: center;""><span style=""color: #bfedd2;""><em>... dans des contextes ...</em></span></div>
+</td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"" data-sheets-value=""{"">
+<div style=""text-align: center;""><span style=""color: #ecf0f1;"">💼 Situation Professionnelle</span></div>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #46bdc6; border-width: 3px;"" data-sheets-value=""{"">
+<h3><strong><span style=""color: #ecf0f1;"">SP1</span></strong></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""8"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">...</span></td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"">&nbsp;</td>
+</tr>
+<tr style=""height: 25.6px;"">
+<td style=""border-color: #ecf0f1; border-width: 3px; background-color: #fbbc04;"" colspan=""6"">&nbsp;</td>
+<td style=""border-color: #ecf0f1; border-width: 3px; background-color: #4285f4;"" colspan=""8"">&nbsp;</td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; border-width: 3px;"">&nbsp;</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""5"" data-sheets-value=""{""><span style=""color: #fbeeb8;""><em><span data-sheets-formula-bar-text-style=""font-size:13px;color:#999999;font-weight:normal;text-decoration:none;font-family:'docs-Calibri';font-style:italic;text-decoration-skip-ink:none;"">... provoqu&eacute;s par des </span><span data-sheets-formula-bar-text-style=""font-size:13px;color:#999999;font-weight:bold;text-decoration:none;font-family:''docs-Calibri'';font-style:italic;text-decoration-skip-ink:none;"">mises en situation</span><span data-sheets-formula-bar-text-style=""font-size:13px;color:#999999;font-weight:normal;text-decoration:none;font-family:'docs-Calibri';font-style:italic;text-decoration-skip-ink:none;""> ...</span></em></span></td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"">&nbsp;</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""6"" data-sheets-value=""{""><span style=""color: #c2e0f4;""><em>... et qui font appel &agrave; la mobilisation de nombreux savoirs, savoir-faire, attitudes ...</em></span></td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"" rowspan=""2"">&nbsp;</td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" data-sheets-value=""{"">
+<h4><em><strong><span style=""color: #ecf0f1;"">SA&Eacute;1</span></strong></em></h4>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #fbbc04; border-width: 3px;"" data-sheets-value=""{""><em><strong><span style=""color: #ecf0f1;"">🦿 SA&Eacute;</span></strong></em></td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""4"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">...</span></td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" data-sheets-value=""{"">
+<h4><em><strong><span style=""color: #ecf0f1;"">R1</span></strong></em></h4>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #4285f4; border-width: 3px;"" data-sheets-value=""{""><em><strong><span style=""color: #ecf0f1;"">🐥 Ressource</span></strong></em></td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""5"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">...</span></td>
+</tr>
+<tr style=""height: 25.6px;"">
+<td style=""border-color: #ecf0f1; border-width: 3px;"" colspan=""14"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p dir=""ltr"">&nbsp;</p>
+<p dir=""ltr""><span style=""background-color: #fbeeb8;"">▶️ L'approche et l'op&eacute;rationnalisation propos&eacute;es ici sont principalement bas&eacute;es sur le travail de refonte des <strong><abbr class=""initialism"" title=""Diplomes Universitaires de Technologie"">DUT</abbr></strong> en <strong><abbr class=""initialism"" title=""Bachelor Universitaires de Technologie"">BUT</abbr></strong> durant la p&eacute;riode <strong>2019</strong>-<strong>2021</strong> ainsi que sur la base des r&eacute;f&eacute;rences principales suivantes :</span></p>
+<ul style=""list-style-type: square;"">
+<li dir=""ltr"">
+<pre>Tardif, J. (2006). L&rsquo;&eacute;valuation des comp&eacute;tences. Documenter le parcours de d&eacute;veloppement. Montr&eacute;al : Cheneli&egrave;re Education.</pre>
+</li>
+<li dir=""ltr"">
+<pre>Georges, F. et Poumay, M. (2020). R&eacute;diger le r&eacute;f&eacute;rentiel de comp&eacute;tences du Bachelor Universitaire de Technologie. ADIUT.</pre>
+</li>
+<li dir=""ltr"">
+<pre>Georges, F. et Poumay, M. (2020). GUIDE de soutien &agrave; la cr&eacute;ation de situation d'apprentissage et d'&eacute;valuation. ADIUT.</pre>
+</li>
+</ul>",,"Pas encore compétent,Compétent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"compétence,niveau,pratique,indicateur"
+,APC-C1,✊ La Compétence : un savoir-agir complexe,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<h1>✊ La comp&eacute;tence</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">&nbsp;<strong>Description&nbsp;</strong></li>
+</ol>
+<blockquote>
+<h5 style=""text-align: center;"">&nbsp;<br>☝️ D&eacute;finir les comp&eacute;tences, le &laquo; <em>savoir-agir</em> &raquo; complexe que les &eacute;tudiants doivent d&eacute;velopper tout au long du programme de formation.</h5>
+<hr></blockquote>
+<p><strong>✍️ Introduire avec un verbe d'action et en moins de 20 mots.</strong></p>
+<ol>
+<li>✅ <em>Demandez-vous quelles sont les activit&eacute;s complexes qui caract&eacute;risent le professionnel/dipl&ocirc;m&eacute; que vous souhaitez former.</em></li>
+<li>✅ <em>Sont-elles vraiment complexes ? Permettent-elles des combinaisons vari&eacute;es de ressources pour s'adapter &agrave; diff&eacute;rentes situations ?</em></li>
+<li>✅ <em>Sont-elles suffisantes en elles-m&ecirc;mes, ou leur mise en &oelig;uvre est-elle au service d'un autre objectif ? Sont-elles mises en &oelig;uvre ""pour"" autre chose ? Si oui, ce ne sont probablement pas des comp&eacute;tences au sens de Tardif (2006). Cependant, l'objectif qu'elles servent en est probablement une.</em></li>
+<li>✅ <em>Reconnaissez-vous les professionnels que vous souhaitez former en elles ? Si non, compl&eacute;tez ou pr&eacute;cisez ces savoir-faire pour agir.</em></li>
+</ol>
+<hr>
+<p>Si vous pr&eacute;voyez de cr&eacute;er plusieurs comp&eacute;tences ici, commencez &agrave; utiliser une <strong>convention de nommage logique</strong> afin de d&eacute;velopper un cadre de comp&eacute;tences structur&eacute;. Ce sera <strong>tr&egrave;s utile plus tard</strong>, pour ordonner ou filtrer la liste dans les documents ou les tableaux, pour s'int&eacute;grer &agrave; un syst&egrave;me de gestion de l'apprentissage (LMS comme Moodle) car ils n&eacute;cessitent des identifiants uniques pour chaque &eacute;l&eacute;ment d&eacute;finissant une comp&eacute;tence, pour une recherche rapide et/ou un remplacement, pour un partage mutuel conventionnel, etc.</p>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;<strong>en</strong>...&nbsp;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;<strong>en</strong>...&nbsp;</li>
+</ol>
+<h5 style=""text-align: center;"">&nbsp;<br>D&eacute;finir les composantes essentielles pour l'action, qui rendent compte de la complexit&eacute; de la comp&eacute;tence, informent sur sa qualit&eacute; et facilitent son &eacute;valuation.</h5>
+<hr>
+<p><strong>✍️ Introduire par ""en..."", utiliser des g&eacute;rondifs (compl&eacute;tant l'action), entre 3 et 6 par comp&eacute;tence.</strong></p>
+<ol>
+<li>✅ <em>Demandez-vous comment reconna&icirc;tre une personne comp&eacute;tente. Comment reconna&icirc;t-on la bonne mise en &oelig;uvre d'une comp&eacute;tence ?</em></li>
+<li>✅ <em>Une fois les composantes identifi&eacute;es, caract&eacute;risez-les : informent-elles sur le r&eacute;sultat (qui doit &ecirc;tre socialement acceptable), sur l'approche, sur le respect des normes, sur la nature des &eacute;changes avec les autres protagonistes ? Ces &eacute;l&eacute;ments font-ils consensus parmi les enseignants et les professionnels ? Si l'un de ces &eacute;l&eacute;ments manque, ne le jugez-vous pas appropri&eacute; de l'ajouter ?</em></li>
+<li>✅ <em>Ces composantes sont-elles distinctement diff&eacute;rentes du savoir-faire pour agir ? Cela ne se r&eacute;p&egrave;te-t-il pas avec la comp&eacute;tence ou d'autres composantes ? &Ecirc;tes-vous capable de les discriminer ?</em></li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;...</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;...</li>
+</ol>
+<blockquote>
+<h5 style=""text-align: center;"">&nbsp;<br>☝️ D&eacute;finir les familles de situations (souvent des types de contextes professionnels) qui rendent compte de l'&eacute;tendue de la comp&eacute;tence.</h5>
+<hr></blockquote>
+<p><strong>✍️ Utiliser des noms, entre 2 et 4 situations professionnelles par comp&eacute;tence.</strong></p>
+<ol>
+<li>✅ Dans quels contextes ou situations le dipl&ocirc;m&eacute; sera-t-il amen&eacute; &agrave; mettre en &oelig;uvre la comp&eacute;tence ?</li>
+<li>✅ Plusieurs de ces situations partagent-elles de nombreuses caract&eacute;ristiques communes ? Ou n&eacute;cessitent-elles la mise en &oelig;uvre d'apprentissages tr&egrave;s similaires ? Les situations partageant des caract&eacute;ristiques communes constituent probablement une &laquo; famille de situations &raquo; pertinente.</li>
+<li>✅ Parmi les familles de situations s&eacute;lectionn&eacute;es, lesquelles sont susceptibles de g&eacute;n&eacute;rer un nombre suffisant de situations pertinentes en termes d'apprentissages cibl&eacute;s (qui favorisent l'interdisciplinarit&eacute;, qui n&eacute;cessitent de consid&eacute;rer toutes les composantes) ?</li>
+</ol>
+<hr>
+<p>Utiliser une <strong>convention de nommage logique</strong>&nbsp;vous permettrait de continuer le d&eacute;veloppement structur&eacute; en utilisant des identifiants uniques pour chaque <strong>comp&eacute;tence</strong> (-<strong>C</strong>x) et chaque <strong>situations professionnelles</strong> (-<strong>SP</strong>x) cons&eacute;cutives.</p>
+</div>
+<div class=""alert alert-success"">
+<h1>📚 Ressources</h1>
+<ul class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;...&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;...&nbsp;</li>
+</ul>
+<blockquote>
+<h5 style=""text-align: center;""><br>☝️ D&eacute;finir certaines des ressources (connaissances, savoir-faire, attitudes professionnelles) qui seront utiles pour d&eacute;velopper la comp&eacute;tence.</h5>
+<hr>
+<p>Il s'agirait &eacute;ventuellement de certains des mat&eacute;riaux qui pourraient &ecirc;tre fournis &agrave; travers le cours avec des <a title=""Activit&eacute;s - MoodleDocs"" href=""https://docs.moodle.org/404/en/Activities"" target=""_blank"" rel=""noopener"">activit&eacute;s</a> et des <a title=""Ressources - MoodleDocs"" href=""https://docs.moodle.org/404/en/Resources"" target=""_blank"" rel=""noopener"">ressources</a> dans votre cours Moodle.<br><strong><br>Ressources internes et externes</strong>:<br>Pour Tardif (2019, p. 51):<br>&laquo; <em>Une ressource est dite interne dans la mesure o&ugrave; il s&rsquo;agit de ce qu&rsquo;une personne ma&icirc;trise d&eacute;j&agrave;, tant sur le plan de la cognition que sur celui des attitudes et des conduites, alors qu&rsquo;une ressource externe a trait &agrave; tout ce que la personne consulte, examine et analyse dans son environnement.</em> &raquo;</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>",,,,,,,,_mcf_APC-C1,,"
+"
+APC-C1,APC-C1-N1,⭐ Niveau NOVICE 1️⃣,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<h1>⭐ NOVICE</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">⭐ Appliquer le cadre défini pour exercer les compétences ciblées, mais est incapable de faire des choix pertinents de manière intentionnelle et répétée dans les situations professionnelles rencontrées.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"">⭐ Comprendre les principaux éléments, mais a besoin de soutien ou de conseils pour construire un enseignement ou ajuster un comportement de manière autonome et responsable.</li>
+</ol>
+<h5 style=""text-align: center;"">&nbsp;<br>☝️ Définir les niveaux de développement des compétences visés à la fin de certaines périodes d'apprentissage.</h5>
+<hr>
+<p><strong>✍️ Utiliser des expressions courtes, généralement 4 niveaux suivant le modèle NICA (Novice, Intermédiaire, Compétent, Avancé) de la compétence ciblée.</strong></p>
+<ol>
+<li>✅ Réfléchir aux situations de mise en œuvre des compétences que l'étudiant pourrait rencontrer à la fin d'une période donnée (par exemple, à la fin de chaque année).</li>
+<li>✅ La complexité de ces situations peut être caractérisée par plusieurs variables telles que : le nombre et le type de paramètres/protagonistes à prendre en compte, une perspective de plus en plus globale voire systémique des contextes, la difficulté de concilier les composantes, etc.</li>
+<li>✅ Définir le rôle/fonction/posture/responsabilité attendu de l'étudiant pour chacun des contextes sélectionnés, en d'autres termes, pour chaque niveau de développement des compétences.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>",,,,,,,,,,"
+"
+APC-C1,APC-C1-N2,⭐⭐ Niveau INTERMÉDIAIRE 2️⃣,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<h1>⭐⭐ INTERMÉDIAIRE</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">⭐⭐ A une maîtrise suffisante des compétences de base requises pour agir de manière autonome, anticiper et faire des choix professionnels appropriés.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"">⭐⭐ Identifier la pertinence de son propre travail dans la plupart des situations, ainsi que l'éthique professionnelle et la capacité à s'auto-évaluer pour améliorer continuellement la pratique.</li>
+</ol>
+<h5 style=""text-align: center;"">&nbsp;<br>☝️ Définir les niveaux de développement des compétences visés à la fin de certaines périodes d'apprentissage.</h5>
+<hr>
+<p><strong>✍️ Utiliser des expressions courtes, généralement 4 niveaux suivant le modèle NICA (Novice, Intermédiaire, Compétent, Avancé) de la compétence ciblée.</strong></p>
+<ol>
+<li>✅ Réfléchir aux situations de mise en œuvre des compétences que l'étudiant pourrait rencontrer à la fin d'une période donnée (par exemple, à la fin de chaque année).</li>
+<li>✅ La complexité de ces situations peut être caractérisée par plusieurs variables telles que : le nombre et le type de paramètres/protagonistes à prendre en compte, une perspective de plus en plus globale voire systémique des contextes, la difficulté de concilier les composantes, etc.</li>
+<li>✅ Définir le rôle/fonction/posture/responsabilité attendu de l'étudiant pour chacun des contextes sélectionnés, en d'autres termes, pour chaque niveau de développement des compétences.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>",,,,,,,,,,"
+"
+APC-C1,APC-C1-N3,⭐⭐⭐ Niveau COMPÉTENT 3️⃣,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<h1>⭐⭐⭐ COMPÉTENT</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">⭐⭐⭐ Exercer les compétences ciblées efficacement au fil du temps.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"">⭐⭐⭐ Faire des choix pertinents et les mettre en œuvre efficacement, adaptés à la situation professionnelle rencontrée, y compris les situations imprévues.</li>
+</ol>
+<h5 style=""text-align: center;"">&nbsp;<br>☝️ Définir les niveaux de développement des compétences visés à la fin de certaines périodes d'apprentissage.</h5>
+<hr>
+<p><strong>✍️ Utiliser des expressions courtes, généralement 4 niveaux suivant le modèle NICA (Novice, Intermédiaire, Compétent, Avancé) de la compétence ciblée.</strong></p>
+<ol>
+<li>✅ Réfléchir aux situations de mise en œuvre des compétences que l'étudiant pourrait rencontrer à la fin d'une période donnée (par exemple, à la fin de chaque année).</li>
+<li>✅ La complexité de ces situations peut être caractérisée par plusieurs variables telles que : le nombre et le type de paramètres/protagonistes à prendre en compte, une perspective de plus en plus globale voire systémique des contextes, la difficulté de concilier les composantes, etc.</li>
+<li>✅ Définir le rôle/fonction/posture/responsabilité attendu de l'étudiant pour chacun des contextes sélectionnés, en d'autres termes, pour chaque niveau de développement des compétences.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>",,,,,,,,,,"
+"
+APC-C1,APC-C1-N4,⭐⭐⭐⭐ Niveau AVANCÉ 4️⃣,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<h1>⭐⭐⭐⭐ AVANCÉ</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">⭐⭐⭐⭐ Démontrer la capacité de mobiliser les compétences ciblées de manière interreliée pour appréhender et gérer un contexte professionnel complexe.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"">⭐⭐⭐⭐ Faire preuve d'ingéniosité pédagogique pour aider le cadre à évoluer tout en respectant les principes éthiques.&nbsp;</li>
+</ol>
+<h5 style=""text-align: center;"">&nbsp;<br>☝️ Définir les niveaux de développement des compétences visés à la fin de certaines périodes d'apprentissage.</h5>
+<hr>
+<p><strong>✍️ Utiliser des expressions courtes, généralement 4 niveaux suivant le modèle NICA (Novice, Intermédiaire, Compétent, Avancé) de la compétence ciblée.</strong></p>
+<ol>
+<li>✅ Réfléchir aux situations de mise en œuvre des compétences que l'étudiant pourrait rencontrer à la fin d'une période donnée (par exemple, à la fin de chaque année).</li>
+<li>✅ La complexité de ces situations peut être caractérisée par plusieurs variables telles que : le nombre et le type de paramètres/protagonistes à prendre en compte, une perspective de plus en plus globale voire systémique des contextes, la difficulté de concilier les composantes, etc.</li>
+<li>✅ Définir le rôle/fonction/posture/responsabilité attendu de l'étudiant pour chacun des contextes sélectionnés, en d'autres termes, pour chaque niveau de développement des compétences.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>",,,,,,,,,,"
+"
+APC-C1-N1,APC-C1-N1-AC1,🔨 Apprentissage Critique 1️⃣ du Niveau 1️⃣⭐,"<div class=""container"">
+<div class=""card border-warning text-center"">
+<div class=""card-body shadow-lg"">
+<h5 style=""text-align: center;"">Définir les apprentissages critiques à maîtriser pour atteindre un niveau de développement des compétences donné.</h5>
+<hr>
+<p style=""text-align: left;""><strong>✍️ Pour chaque niveau de chaque compétence, introduit par des verbes avec des formulations concises.</strong></p>
+<ol style=""text-align: left;"">
+<li>
+<p>✅ Réfléchir à ce que l'étudiant doit maîtriser pour assumer son rôle/fonction/posture/responsabilité en termes d'expérimentation à ce niveau de développement des compétences donné.</p>
+</li>
+<li>
+<p>✅ Pour chaque apprentissage sélectionné, identifier les changements attendus. Ceux-ci constituent les Apprentissages Critiques (AC). Par exemple :</p>
+</li>
+</ol>
+<ul>
+<li style=""text-align: left;"">Dans l'AC (changement attendu) ""Recherche pour Progresser"", il est attendu que l'étudiant passe de l'utilisation de la littérature pour simplement justifier ses pratiques à l'utilisation de la littérature pour réellement questionner ses pratiques ;</li>
+<li style=""text-align: left;"">Dans l'AC (changement attendu) ""Distinguer les Fins et les Moyens"", il est attendu que l'étudiant passe de l'action pour l'action à l'action au service d'un objectif.</li>
+</ul>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+APC-C1-N1-AC1,APC-C1-N1-AC1-I1,🚥 Indicateur 1️⃣,"<div class=""container"">
+<div class=""card border-danger text-center"">
+<div class=""card-body shadow-lg"">
+<h5 style=""text-align: center;"">D&eacute;finir un indicateur pour le d&eacute;veloppement et l'&eacute;valuation des comp&eacute;tences</h5>
+<hr>
+<p style=""text-align: left;""><strong>✍️ &Eacute;crire l'indicateur directement dans le r&eacute;f&eacute;rentiel de comp&eacute;tences peut &ecirc;tre facultatif, selon la mani&egrave;re dont vous pr&eacute;voyez d'&eacute;valuer et d'&eacute;valuer &agrave; travers des activit&eacute;s, des tests, des productions, des grilles d'&eacute;valuation, etc.</strong></p>
+<p style=""text-align: left;"">Que l'indicateur soit pr&eacute;sent ou non dans le r&eacute;f&eacute;rentiel de comp&eacute;tences, il aide principalement &agrave; op&eacute;rationnaliser les crit&egrave;res et l'&eacute;valuation &agrave; travers <kbd>🔩&nbsp;Composantes Essentielles</kbd>, le d&eacute;veloppement des <kbd>⭐&nbsp;Niveaux</kbd> et des <kbd>🔨&nbsp;Apprentissages Critiques</kbd> pour chaque <kbd>✊&nbsp;Comp&eacute;tence</kbd>, puis &agrave; les articuler dans des <kbd>🦿&nbsp;Situations d'Apprentissage et d'&Eacute;valuation (SA&Eacute;)</kbd> sp&eacute;cifiques, productions, livrables, etc.</p>
+<ol style=""text-align: left;"">
+<li>
+<p>✅ Pour s'assurer que les &eacute;l&eacute;ments peuvent &ecirc;tre &eacute;valu&eacute;es, identifier les indicateurs significatifs de l'accomplissement de chaque composante.</p>
+</li>
+<li>
+<p>✅ Pour d&eacute;terminer ces indicateurs, pensez &agrave; une situation particuli&egrave;re dans laquelle les &eacute;tudiants seront amen&eacute;s &agrave; appliquer leurs comp&eacute;tences, et identifiez les &eacute;l&eacute;ments auxquels vous pr&ecirc;terez attention pour vous assurer qu'ils ont d&eacute;velopp&eacute; leurs comp&eacute;tences en ad&eacute;quation avec les composantes.</p>
+</li>
+</ol>
+<p style=""text-align: left;"">Pour rappel, un indicateur est un &eacute;l&eacute;ment observable, une production ou un comportement qui peut &ecirc;tre utilis&eacute; pour v&eacute;rifier la qualit&eacute; du r&eacute;sultat, l'approche, le respect des normes/r&egrave;gles ou la relation avec les diff&eacute;rents protagonistes.&nbsp;<br>Les indicateurs sont souvent sp&eacute;cifiques &agrave; une situation.&nbsp;</p>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
